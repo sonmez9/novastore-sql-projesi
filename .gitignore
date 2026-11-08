@@ -1,0 +1,4 @@
+*.pdf
+Teslim/
+*.bak
+.DS_Store
